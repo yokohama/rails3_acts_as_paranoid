@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem "activerecord", "~>3.2"
+gem "activerecord", "~>4.0.0.beta1"
 
 # Development dependencies
 gem "rake"
